@@ -10,7 +10,7 @@
 Transformando lógica em soluções e automatizando o dia a dia. Com uma base sólida em processos e suporte técnico, meu foco é criar softwares eficientes e mergulhar na infraestrutura que os mantém no ar.
 
 -  Cursando o **3º semestre de Ciência da Computação**.
--  Focado em **Python** (Bots para Discord/Telegram, integrações de APIs e scripts de automação).
+-  Focado em **Python** (Integrações de APIs e scripts de automação).
 -  Em transição e estudando forte para atuar com **Cloud Computing e DevOps**.
 -  Nas horas vagas: Explorando as Terras Intermédias no *Elden Ring*, jogando *Valorant* ou *Fortnite*.
 
