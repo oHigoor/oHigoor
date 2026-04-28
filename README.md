@@ -16,7 +16,7 @@ Transformando lógica em soluções e automatizando o dia a dia. Com uma base s�
 
 ---
 
-### 🛠️ Minha Stack 
+###  Minha Stack 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
@@ -29,7 +29,7 @@ Transformando lógica em soluções e automatizando o dia a dia. Com uma base s�
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+###  Minhas Estatísticas no GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oHigoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do Higor" />
   <br/>
@@ -38,7 +38,7 @@ Transformando lógica em soluções e automatizando o dia a dia. Com uma base s�
 
 ---
 
-### 📫 Contato
+###  Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/higorjunio/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
