@@ -38,7 +38,7 @@ Transformando lógica em soluções e automatizando o dia a dia. Com uma base s�
 
 ---
 
-### 🐍 Minhas Contribuições
+###  Minhas Contribuições
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oHigoor/oHigoor/output/github-contribution-grid-snake-dark.svg">
